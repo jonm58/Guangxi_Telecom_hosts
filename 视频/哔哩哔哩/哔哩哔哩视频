@@ -158,7 +158,7 @@
 157.148.134.4 cn-gddg-cu-01-03.bilivideo.com
 2408:8756:d0fe:300::4 cn-gddg-cu-01-03.bilivideo.com
 157.148.134.5 cn-gddg-cu-01-04.bilivideo.com
-2408:8756:d0fe:300::5    cn-gddg-cu-01-04.bilivideo.com
+2408:8756:d0fe:300::5cn-gddg-cu-01-04.bilivideo.com
 157.148.134.6 cn-gddg-cu-01-05.bilivideo.com
 2408:8756:d0fe:300::6 cn-gddg-cu-01-05.bilivideo.com
 157.148.134.7 cn-gddg-cu-01-06.bilivideo.com
@@ -323,6 +323,108 @@
 2600:140b:400::1721:2190	upos-hz-mirrorakam.akamaized.net
 2600:140b:400::1721:21c0	upos-hz-mirrorakam.akamaized.net
 
+114.230.222.2  cn-jsyz-ct-03-01.bilivideo.com
+240e:978:90d:1000::2  cn-jsyz-ct-03-01.bilivideo.com
+240e:978:90d:1000::3  cn-jsyz-ct-03-02.bilivideo.com
+240e:978:90d:1000::4  cn-jsyz-ct-03-03.bilivideo.com
+240e:978:90d:1000::5  cn-jsyz-ct-03-04.bilivideo.com
+114.230.222.6  cn-jsyz-ct-03-05.bilivideo.com
+240e:978:90d:1000::6  cn-jsyz-ct-03-05.bilivideo.com
+114.230.222.7  cn-jsyz-ct-03-06.bilivideo.com
+240e:978:90d:1000::7  cn-jsyz-ct-03-06.bilivideo.com
+114.230.222.8  cn-jsyz-ct-03-07.bilivideo.com
+240e:978:90d:1000::8  cn-jsyz-ct-03-07.bilivideo.com
+114.230.222.9  cn-jsyz-ct-03-08.bilivideo.com
+240e:978:90d:1000::9  cn-jsyz-ct-03-08.bilivideo.com
+114.230.222.10  cn-jsyz-ct-03-09.bilivideo.com
+240e:978:90d:1000::10  cn-jsyz-ct-03-09.bilivideo.com
+114.230.222.11  cn-jsyz-ct-03-10.bilivideo.com
+240e:978:90d:1000::11  cn-jsyz-ct-03-10.bilivideo.com
+114.230.222.12  cn-jsyz-ct-03-11.bilivideo.com
+240e:978:90d:1000::12  cn-jsyz-ct-03-11.bilivideo.com
+114.230.222.13  cn-jsyz-ct-03-12.bilivideo.com
+240e:978:90d:1000::13  cn-jsyz-ct-03-12.bilivideo.com
+114.230.222.14  cn-jsyz-ct-03-13.bilivideo.com
+240e:978:90d:1000::14  cn-jsyz-ct-03-13.bilivideo.com
+114.230.222.15  cn-jsyz-ct-03-14.bilivideo.com
+240e:978:90d:1000::15  cn-jsyz-ct-03-14.bilivideo.com
+114.230.222.16cn-jsyz-ct-03-15.bilivideo.com
+240e:978:90d:1000::16cn-jsyz-ct-03-15.bilivideo.com
+114.230.222.17  cn-jsyz-ct-03-16.bilivideo.com
+240e:978:90d:1000::17  cn-jsyz-ct-03-16.bilivideo.com
+114.230.222.18  cn-jsyz-ct-03-17.bilivideo.com
+240e:978:90d:1000::18  cn-jsyz-ct-03-17.bilivideo.com
+114.230.222.19  cn-jsyz-ct-03-18.bilivideo.com
+240e:978:90d:1000::19  cn-jsyz-ct-03-18.bilivideo.com
+114.230.222.20  cn-jsyz-ct-03-19.bilivideo.com
+240e:978:90d:1000::20  cn-jsyz-ct-03-19.bilivideo.com
+114.230.222.21  cn-jsyz-ct-03-20.bilivideo.com
+240e:978:90d:1000::21  cn-jsyz-ct-03-20.bilivideo.com
+114.230.222.22  cn-jsyz-ct-03-21.bilivideo.com
+240e:978:90d:1000::22  cn-jsyz-ct-03-21.bilivideo.com
+114.230.222.23  cn-jsyz-ct-03-22.bilivideo.com
+240e:978:90d:1000::23  cn-jsyz-ct-03-22.bilivideo.com
+114.230.222.24  cn-jsyz-ct-03-23.bilivideo.com
+240e:978:90d:1000::24  cn-jsyz-ct-03-23.bilivideo.com
+114.230.222.25  cn-jsyz-ct-03-24.bilivideo.com
+240e:978:90d:1000::25  cn-jsyz-ct-03-24.bilivideo.com
+114.230.222.26  cn-jsyz-ct-03-25.bilivideo.com
+240e:978:90d:1000::26  cn-jsyz-ct-03-25.bilivideo.com
+114.230.222.27  cn-jsyz-ct-03-26.bilivideo.com
+240e:978:90d:1000::27  cn-jsyz-ct-03-26.bilivideo.com
+114.230.222.28  cn-jsyz-ct-03-27.bilivideo.com
+240e:978:90d:1000::28  cn-jsyz-ct-03-27.bilivideo.com
+114.230.222.29  cn-jsyz-ct-03-28.bilivideo.com
+240e:978:90d:1000::29cn-jsyz-  ct-03-28.bilivideo.com
+114.230.222.30  cn-jsyz-ct-03-29.bilivideo.com
+240e:978:90d:1000::30  cn-jsyz-ct-03-29.bilivideo.com
+114.230.222.31  cn-jsyz-ct-03-30.bilivideo.com
+240e:978:90d:1000::31  cn-jsyz-ct-03-30.bilivideo.com
+114.230.222.32  cn-jsyz-ct-03-31.bilivideo.com
+240e:978:90d:1000::32  cn-jsyz-ct-03-31.bilivideo.com
+114.230.222.33  cn-jsyz-ct-03-32.bilivideo.com
+240e:978:90d:1000::33  cn-jsyz-ct-03-32.bilivideo.com
+114.230.222.34  cn-jsyz-ct-03-33.bilivideo.com
+240e:978:90d:1000::34  cn-jsyz-ct-03-33.bilivideo.com
+114.230.222.35  cn-jsyz-ct-03-34.bilivideo.com
+240e:978:90d:1000::35  cn-jsyz-ct-03-34.bilivideo.com
+114.230.222.36  cn-jsyz-ct-03-35.bilivideo.com
+240e:978:90d:1000::36  cn-jsyz-ct-03-35.bilivideo.com
+114.230.222.37  cn-jsyz-ct-03-36.bilivideo.com
+240e:978:90d:1000::37  cn-jsyz-ct-03-36.bilivideo.com
+114.230.222.74cn-jsyz-ct-03-37.bilivideo.com
+240e:978:90d:1000::38cn-jsyz-ct-03-37.bilivideo.com
+114.230.222.75  cn-jsyz-ct-03-38.bilivideo.com
+240e:978:90d:1000::39  cn-jsyz-ct-03-38.bilivideo.com
+114.230.222.76  cn-jsyz-ct-03-39.bilivideo.com
+240e:978:90d:1000::40  cn-jsyz-ct-03-39.bilivideo.com
+114.230.222.77  cn-jsyz-ct-03-40.bilivideo.com
+240e:978:90d:1000::41  cn-jsyz-ct-03-40.bilivideo.com
+114.230.222.78  cn-jsyz-ct-03-41.bilivideo.com
+240e:978:90d:1000::42  cn-jsyz-ct-03-41.bilivideo.com
+114.230.222.79  cn-jsyz-ct-03-42.bilivideo.com
+240e:978:90d:1000::43  cn-jsyz-ct-03-42.bilivideo.com
+114.230.222.80  cn-jsyz-ct-03-43.bilivideo.com
+240e:978:90d:1000::44  cn-jsyz-ct-03-43.bilivideo.com
+114.230.222.81  cn-jsyz-ct-03-44.bilivideo.com
+240e:978:90d:1000::45  cn-jsyz-ct-03-44.bilivideo.com
+114.230.222.82  cn-jsyz-ct-03-45.bilivideo.com
+240e:978:90d:1000::46  cn-jsyz-ct-03-45.bilivideo.com
+114.230.222.83  cn-jsyz-ct-03-46.bilivideo.com
+240e:978:90d:1000::47  cn-jsyz-ct-03-46.bilivideo.com
+114.230.222.84  cn-jsyz-ct-03-47.bilivideo.com
+240e:978:90d:1000::48cn-jsyz-ct-03-47.bilivideo.com
+114.230.222.85  cn-jsyz-ct-03-48.bilivideo.com
+240e:978:90d:1000::49  cn-jsyz-ct-03-48.bilivideo.com
+114.230.222.86  cn-jsyz-ct-03-49.bilivideo.com
+240e:978:90d:1000::50  cn-jsyz-ct-03-49.bilivideo.com
+114.230.222.87  cn-jsyz-ct-03-50.bilivideo.com
+240e:978:90d:1000::51  cn-jsyz-ct-03-50.bilivideo.com
+114.230.222.88  cn-jsyz-ct-03-51.bilivideo.com
+240e:978:90d:1000::52  cn-jsyz-ct-03-51.bilivideo.com
+114.230.222.89  cn-jsyz-ct-03-52.bilivideo.com
+240e:978:90d:1000::53 cn-jsyz-ct-03-52.bilivideo.com
+
 #Bililive: 原画
 163.181.35.231  d1--ov-gotcha209.bilivideo.com
 163.181.35.232  d1--ov-gotcha209.bilivideo.com
@@ -332,6 +434,8 @@
 163.181.35.233  d1--ov-gotcha209.bilivideo.com
 163.181.35.236  d1--ov-gotcha209.bilivideo.com
 163.181.35.234  d1--ov-gotcha209.bilivideo.com
+
+124.225.191.139  d1--cn-gotcha04.bilivideo.com
 
 #Mirror 型：
 
@@ -430,8 +534,8 @@
 240e:f7:c000:320::64  upos-sz-mirrorcos.bilivideo.com
 240e:960:200:97::40  upos-sz-mirrorcos.bilivideo.com
 240e:f7:c000:320::69  upos-sz-mirrorcos.bilivideo.com
-240e:946:3000:7017:19::    upos-sz-mirrorcos.bilivideo.com
-240e:946:3000:7013:33::    upos-sz-mirrorcos.bilivideo.com
+240e:946:3000:7017:19::upos-sz-mirrorcos.bilivideo.com
+240e:946:3000:7013:33::upos-sz-mirrorcos.bilivideo.com
 
 117.44.77.199  upos-sz-mirrorcosb.bilivideo.com
 117.44.77.135  upos-sz-mirrorcosb.bilivideo.com
