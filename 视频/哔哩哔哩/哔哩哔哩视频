@@ -1,9 +1,36 @@
-#EDNS:240e:6b0:200::139/182.90.0.0/101.6.6.6
-# //https://github.com/the1812/Bilibili-Evolved/issues/3234#issuecomment-1504764774
+#EDNS:240e:6b0:200::139/116.0.0.0
+# https://github.com/the1812/Bilibili-Evolved/issues/3234#issuecomment-1504764774
 
+#BCache 型：
+
+#上海 (?)
 10.24.194.125  cn-sh-office-bcache-01.bilivideo.com
 10.24.194.126  cn-sh-office-bcache-02.bilivideo.com
 
+#上海 长城/鹏博士
+124.14.12.162  cn-sh-cc-bcache-01.bilivideo.com
+124.14.12.163  cn-sh-cc-bcache-02.bilivideo.com
+124.14.12.164  cn-sh-cc-bcache-03.bilivideo.com
+124.14.12.165  cn-sh-cc-bcache-04.bilivideo.com
+124.14.12.166  cn-sh-cc-bcache-05.bilivideo.com
+124.14.12.167  cn-sh-cc-bcache-06.bilivideo.com
+124.14.12.168  cn-sh-cc-bcache-07.bilivideo.com
+124.14.12.184  cn-sh-cc-bcache-08.bilivideo.com
+124.14.12.185  cn-sh-cc-bcache-09.bilivideo.com
+124.14.12.186  cn-sh-cc-bcache-10.bilivideo.com
+124.14.12.187  cn-sh-cc-bcache-11.bilivideo.com
+124.14.12.188  cn-sh-cc-bcache-12.bilivideo.com
+124.14.12.189  cn-sh-cc-bcache-13.bilivideo.com
+
+#新疆移动
+218.202.148.130  cn-xj2-cmcc-bcache-01.bilivideo.com
+218.202.148.131  cn-xj2-cmcc-bcache-02.bilivideo.com
+218.202.148.132  cn-xj2-cmcc-bcache-03.bilivideo.com
+218.202.148.133  cn-xj2-cmcc-bcache-04.bilivideo.com
+218.202.148.134  cn-xj2-cmcc-bcache-05.bilivideo.com
+218.202.148.135  cn-xj2-cmcc-bcache-06.bilivideo.com
+
+#江西南昌移动
 117.169.96.226	cn-jxnc-cmcc-bcache-01.bilivideo.com
 117.169.96.227	cn-jxnc-cmcc-bcache-02.bilivideo.com
 117.169.96.228	cn-jxnc-cmcc-bcache-03.bilivideo.com
@@ -22,6 +49,46 @@
 117.169.96.250	cn-jxnc-cmcc-bcache-16.bilivideo.com
 117.169.96.251	cn-jxnc-cmcc-bcache-17.bilivideo.com
 117.169.96.252	cn-jxnc-cmcc-bcache-18.bilivideo.com
+
+#浙江杭州华数
+113.215.235.2  cn-zjhz3-wasu-bcache-02.bilivideo.com
+2401:ce00:4000:4::3  cn-zjhz3-wasu-bcache-02.bilivideo.com
+113.215.235.3  cn-zjhz3-wasu-bcache-03.bilivideo.com
+2401:ce00:4000:4::4  cn-zjhz3-wasu-bcache-03.bilivideo.com
+113.215.235.4  cn-zjhz3-wasu-bcache-04.bilivideo.com
+2401:ce00:4000:4::5  cn-zjhz3-wasu-bcache-04.bilivideo.com
+113.215.235.5  cn-zjhz3-wasu-bcache-05.bilivideo.com
+2401:ce00:4000:4::6  cn-zjhz3-wasu-bcache-05.bilivideo.com
+113.215.235.6  cn-zjhz3-wasu-bcache-06.bilivideo.com
+2401:ce00:4000:4::7  cn-zjhz3-wasu-bcache-06.bilivideo.com
+113.215.235.7  cn-zjhz3-wasu-bcache-07.bilivideo.com
+2401:ce00:4000:4::8  cn-zjhz3-wasu-bcache-07.bilivideo.com
+113.215.235.8  cn-zjhz3-wasu-bcache-08.bilivideo.com
+2401:ce00:4000:4::9  cn-zjhz3-wasu-bcache-08.bilivideo.com
+113.215.235.9  cn-zjhz3-wasu-bcache-09.bilivideo.com
+2401:ce00:4000:4::10  cn-zjhz3-wasu-bcache-09.bilivideo.com
+113.215.235.10  cn-zjhz3-wasu-bcache-10.bilivideo.com
+2401:ce00:4000:4::11  cn-zjhz3-wasu-bcache-10.bilivideo.com
+113.215.235.11  cn-zjhz3-wasu-bcache-11.bilivideo.com
+2401:ce00:4000:4::12  cn-zjhz3-wasu-bcache-11.bilivideo.com
+113.215.235.12  cn-zjhz3-wasu-bcache-12.bilivideo.com
+2401:ce00:4000:4::13  cn-zjhz3-wasu-bcache-12.bilivideo.com
+113.215.235.13  cn-zjhz3-wasu-bcache-13.bilivideo.com
+113.215.235.14  cn-zjhz3-wasu-bcache-14.bilivideo.com
+113.215.235.15  cn-zjhz3-wasu-bcache-15.bilivideo.com
+113.215.235.16  cn-zjhz3-wasu-bcache-16.bilivideo.com
+113.215.235.17  cn-zjhz3-wasu-bcache-17.bilivideo.com
+113.215.235.18  cn-zjhz3-wasu-bcache-18.bilivideo.com
+113.215.235.19  cn-zjhz3-wasu-bcache-19.bilivideo.com
+113.215.235.20  cn-zjhz3-wasu-bcache-20.bilivideo.com
+
+#广东天威视讯
+116.77.72.74  cn-gdsz-twsx-bcache-01.bilivideo.com
+116.77.72.75  cn-gdsz-twsx-bcache-02.bilivideo.com
+116.77.72.76  cn-gdsz-twsx-bcache-03.bilivideo.com
+116.77.72.77  cn-gdsz-twsx-bcache-04.bilivideo.com
+
+#直播 CDN:
 
 14.17.92.2 cn-gddg-ct-01-01.bilivideo.com
 240e:97d:10:1402:0:1:1:2 cn-gddg-ct-01-01.bilivideo.com
@@ -256,6 +323,7 @@
 2600:140b:400::1721:2190	upos-hz-mirrorakam.akamaized.net
 2600:140b:400::1721:21c0	upos-hz-mirrorakam.akamaized.net
 
+#Bililive: 原画
 163.181.35.231  d1--ov-gotcha209.bilivideo.com
 163.181.35.232  d1--ov-gotcha209.bilivideo.com
 163.181.35.237  d1--ov-gotcha209.bilivideo.com
@@ -265,6 +333,9 @@
 163.181.35.236  d1--ov-gotcha209.bilivideo.com
 163.181.35.234  d1--ov-gotcha209.bilivideo.com
 
+#Mirror 型：
+
+#华为云 CDN
 171.105.185.59  upos-sz-mirror08c.bilivideo.com
 171.105.63.49   upos-sz-mirror08c.bilivideo.com
 171.105.185.58  upos-sz-mirror08c.bilivideo.com
@@ -293,6 +364,59 @@
 240e:250:2903::6  upos-sz-mirrorhw.bilivideo.com
 240e:250:2903::7  upos-sz-mirrorhw.bilivideo.com
 
+183.60.229.73  upos-sz-mirrorhwb.bilivideo.com
+183.60.229.74  upos-sz-mirrorhwb.bilivideo.com
+183.60.229.75  upos-sz-mirrorhwb.bilivideo.com
+183.60.229.76  upos-sz-mirrorhwb.bilivideo.com
+240e:97d:10:1404::4a  upos-sz-mirrorhwb.bilivideo.com
+240e:97d:10:1404::4c  upos-sz-mirrorhwb.bilivideo.com
+240e:97d:10:1404::49  upos-sz-mirrorhwb.bilivideo.com
+240e:97d:10:1404::4b  upos-sz-mirrorhwb.bilivideo.com
+240e:97d:10:1404::4d  upos-sz-mirrorhwb.bilivideo.com
+
+183.60.229.73  upos-sz-mirrorhwo1.bilivideo.com
+183.60.229.74  upos-sz-mirrorhwo1.bilivideo.com
+183.60.229.75  upos-sz-mirrorhwo1.bilivideo.com
+183.60.229.76  upos-sz-mirrorhwo1.bilivideo.com
+240e:97d:10:1404::4a  upos-sz-mirrorhwo1.bilivideo.com
+240e:97d:10:1404::4c  upos-sz-mirrorhwo1.bilivideo.com
+240e:97d:10:1404::49  upos-sz-mirrorhwo1.bilivideo.com
+240e:97d:10:1404::4b  upos-sz-mirrorhwo1.bilivideo.com
+240e:97d:10:1404::4d  upos-sz-mirrorhwo1.bilivideo.com
+
+#阿里云 CDN
+171.105.188.72  upos-sz-mirrorali.bilivideo.com
+171.105.188.74  upos-sz-mirrorali.bilivideo.com
+171.105.188.73  upos-sz-mirrorali.bilivideo.com
+171.105.188.75  upos-sz-mirrorali.bilivideo.com
+240e:951:2c10:900::2  upos-sz-mirrorali.bilivideo.com
+240e:951:2c10:900::3  upos-sz-mirrorali.bilivideo.com
+240e:951:2c10:900::4  upos-sz-mirrorali.bilivideo.com
+240e:951:2c10:900::5  upos-sz-mirrorali.bilivideo.com
+
+113.240.105.115  upos-sz-mirroralib.bilivideo.com
+113.240.105.111  upos-sz-mirroralib.bilivideo.com
+113.240.105.116  upos-sz-mirroralib.bilivideo.com
+113.240.105.119  upos-sz-mirroralib.bilivideo.com
+113.240.105.113  upos-sz-mirroralib.bilivideo.com
+113.240.105.120  upos-sz-mirroralib.bilivideo.com
+113.240.105.114  upos-sz-mirroralib.bilivideo.com
+113.240.105.112  upos-sz-mirroralib.bilivideo.com
+240e:965:820:200:3003::7f3  upos-sz-mirroralib.bilivideo.com
+240e:965:820:200:3003::7f4  upos-sz-mirroralib.bilivideo.com
+
+124.227.185.204  upos-sz-mirroralio1.bilivideo.com
+124.227.185.203  upos-sz-mirroralio1.bilivideo.com
+124.227.185.207  upos-sz-mirroralio1.bilivideo.com
+124.227.185.206  upos-sz-mirroralio1.bilivideo.com
+124.227.185.208  upos-sz-mirroralio1.bilivideo.com
+124.227.185.202  upos-sz-mirroralio1.bilivideo.com
+124.227.185.199  upos-sz-mirroralio1.bilivideo.com
+124.227.185.205  upos-sz-mirroralio1.bilivideo.com
+240e:a5:4a00:200:3::3e2  upos-sz-mirroralio1.bilivideo.com
+240e:a5:4a00:200:3::3e1  upos-sz-mirroralio1.bilivideo.com
+
+#腾讯云 CDN
 60.188.84.61  upos-sz-mirrorcos.bilivideo.com
 60.188.95.5  upos-sz-mirrorcos.bilivideo.com
 60.188.84.72  upos-sz-mirrorcos.bilivideo.com
@@ -308,3 +432,22 @@
 240e:f7:c000:320::69  upos-sz-mirrorcos.bilivideo.com
 240e:946:3000:7017:19::    upos-sz-mirrorcos.bilivideo.com
 240e:946:3000:7013:33::    upos-sz-mirrorcos.bilivideo.com
+
+117.44.77.199  upos-sz-mirrorcosb.bilivideo.com
+117.44.77.135  upos-sz-mirrorcosb.bilivideo.com
+117.44.77.8  upos-sz-mirrorcosb.bilivideo.com
+117.44.77.136  upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:96::4a  upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:96::49  upos-sz-mirrorcosb.bilivideo.com
+240e:bf:b800:4135::e8  upos-sz-mirrorcosb.bilivideo.com
+240e:bf:b800:4135::e9  upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:96::48  upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:90::3e  upos-sz-mirrorcosb.bilivideo.com
+
+175.12.113.110  upos-sz-mirrorcoso1.bilivideo.com
+240e:96a:4c00:1001:37::3b  upos-sz-mirrorcoso1.bilivideo.com
+
+#百度云 CDN | 虽然有解析，但实际不可用
+222.216.122.41  bilibili.jomodns.com
+222.216.122.41  upos-sz-mirrorbos.bilivideo.com
+
