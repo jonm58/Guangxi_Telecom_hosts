@@ -86,6 +86,9 @@
 42.101.56.35		tiebapic.baidu.com
 61.170.99.35		tiebapic.baidu.com
 
+171.107.86.48									imgsa.baidu.com
+240e:a5:4200:100::ab6b:5630	imgsa.baidu.com
+
 121.228.183.215	xlab.baidu.com
 
 183.255.109.35		ppui-static-pc.cdn.bcebos.com
@@ -101,3 +104,15 @@
 240e:96c:6400:d05::3daa:6323	tieba-ares.cdn.bcebos.com
 240e:974:c200:f00::6eb9:6c23	tieba-ares.cdn.bcebos.com
 240e:f7:e000:604::3cbc:4223		tieba-ares.cdn.bcebos.com
+
+112.67.255.124									efe-h2.cdn.bcebos.com
+240e:95d:1904:fa::6fae:923			efe-h2.cdn.bcebos.com
+240e:96c:6400:d05::3daa:6323		efe-h2.cdn.bcebos.com
+240e:945:4000:100::3a39:6623	efe-h2.cdn.bcebos.com
+240e:b1:9801:207::6fe1:d523		efe-h2.cdn.bcebos.com
+240e:d9:a002::b68c:e123				efe-h2.cdn.bcebos.com
+240e:935:a00:4::7d4a:2a23			efe-h2.cdn.bcebos.com
+240e:b1:9801:208::7cef:f323			efe-h2.cdn.bcebos.com
+240e:cf:8800:b::6ae1:c223				efe-h2.cdn.bcebos.com
+2408:874c:0:70::76d4:e623			efe-h2.cdn.bcebos.com
+2408:874c:0:22::76d4:e023			efe-h2.cdn.bcebos.com
