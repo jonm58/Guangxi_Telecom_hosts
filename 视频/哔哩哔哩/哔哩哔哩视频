@@ -521,32 +521,25 @@
 240e:a5:4a00:200:3::3e1  upos-sz-mirroralio1.bilivideo.com
 
 #腾讯云 CDN
-60.188.84.61  upos-sz-mirrorcos.bilivideo.com
-60.188.95.5  upos-sz-mirrorcos.bilivideo.com
-60.188.84.72  upos-sz-mirrorcos.bilivideo.com
-60.188.84.69  upos-sz-mirrorcos.bilivideo.com
-60.188.95.125  upos-sz-mirrorcos.bilivideo.com
-60.188.84.9  upos-sz-mirrorcos.bilivideo.com
-240e:f7:c000:320::73  upos-sz-mirrorcos.bilivideo.com
-240e:946:3000:7014:28::  upos-sz-mirrorcos.bilivideo.com
-240e:946:3000:7011:11::  upos-sz-mirrorcos.bilivideo.com
-240e:946:3000:7011:32::  upos-sz-mirrorcos.bilivideo.com
-240e:f7:c000:320::64  upos-sz-mirrorcos.bilivideo.com
-240e:960:200:97::40  upos-sz-mirrorcos.bilivideo.com
-240e:f7:c000:320::69  upos-sz-mirrorcos.bilivideo.com
-240e:946:3000:7017:19::upos-sz-mirrorcos.bilivideo.com
-240e:946:3000:7013:33::upos-sz-mirrorcos.bilivideo.com
+113.219.202.53          upos-sz-mirrorcos.bilivideo.com
+113.219.202.134         upos-sz-mirrorcos.bilivideo.com
+113.219.202.56          upos-sz-mirrorcos.bilivideo.com
+240e:946:3000:7011:11:: upos-sz-mirrorcos.bilivideo.com
+240e:946:3000:7012:36:: upos-sz-mirrorcos.bilivideo.com
+40e:946:3000:7017:36::  upos-sz-mirrorcos.bilivideo.com
+240e:946:3000:7012:11:: upos-sz-mirrorcos.bilivideo.com
+240e:946:3000:7017:1f:: upos-sz-mirrorcos.bilivideo.com
 
-117.44.77.199  upos-sz-mirrorcosb.bilivideo.com
-117.44.77.135  upos-sz-mirrorcosb.bilivideo.com
-117.44.77.8  upos-sz-mirrorcosb.bilivideo.com
-117.44.77.136  upos-sz-mirrorcosb.bilivideo.com
-240e:960:200:96::4a  upos-sz-mirrorcosb.bilivideo.com
-240e:960:200:96::49  upos-sz-mirrorcosb.bilivideo.com
-240e:bf:b800:4135::e8  upos-sz-mirrorcosb.bilivideo.com
-240e:bf:b800:4135::e9  upos-sz-mirrorcosb.bilivideo.com
-240e:960:200:96::48  upos-sz-mirrorcosb.bilivideo.com
-240e:960:200:90::3e  upos-sz-mirrorcosb.bilivideo.com
+117.44.77.8             upos-sz-mirrorcosb.bilivideo.com
+117.44.77.135           upos-sz-mirrorcosb.bilivideo.com
+117.44.77.199           upos-sz-mirrorcosb.bilivideo.com
+117.44.77.136           upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:96::49     upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:90::3e     upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:96::4a     upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c5:e4::5   upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c3:90::e   upos-sz-mirrorcosb.bilivideo.com
+240e:960:200:96::48     upos-sz-mirrorcosb.bilivideo.com
 
 175.12.113.110  upos-sz-mirrorcoso1.bilivideo.com
 240e:96a:4c00:1001:37::3b  upos-sz-mirrorcoso1.bilivideo.com
