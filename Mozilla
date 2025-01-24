@@ -17,8 +17,10 @@
 
 34.111.97.67	developer.mozilla.org
 
-2a04:4e42:12::787   	ftp.mozilla.org 
+2a04:4e42:a::787   	ftp.mozilla.org 
+2a04:4e42:9::787   	ftp.mozilla.org 
 2a04:4e42:1a::787   	ftp.mozilla.org 
+2a04:4e42:12::787   	ftp.mozilla.org 
 2a04:4e42::787   	ftp.mozilla.org 
 2a04:4e42:200::787   	ftp.mozilla.org 
 2a04:4e42:400::787   	ftp.mozilla.org 
