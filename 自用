@@ -124,7 +124,20 @@
 43.128.240.52	cos.ap-tokyo.myqcloud.com
 43.128.240.44 	wvbimg2-1310561333.cos.ap-tokyo.myqcloud.com
 
-78.129.226.64		privatebin.rinuploads.org
-78.129.226.113		privatebin.rinuploads.org
+195.16.73.95  nyaa.tracker.wf
+
+104.21.18.88    sparkle.ghostchu-services.top
+172.67.181.132  sparkle.ghostchu-services.top
+2606:4700:3034::6815:1258  sparkle.ghostchu-services.top
+2606:4700:3034::ac43:b584  sparkle.ghostchu-services.top
+2606:4700:3034::6815:1258  btn-prod.ghostchu-services.top
+2606:4700:3034::ac43:b584  btn-prod.ghostchu-services.top
+104.21.18.88    btn-prod.ghostchu-services.top
+172.67.181.132  btn-prod.ghostchu-services.top
+
+2606:4700:3031::ac43:8beb  tracker-zhuqiy.dgj055.icu
+2606:4700:3030::6815:3ee6  tracker-zhuqiy.dgj055.icu
+104.21.62.230  tracker-zhuqiy.dgj055.icu
+172.67.139.235  tracker-zhuqiy.dgj055.icu
 
 127.0.0.1	swh.app
