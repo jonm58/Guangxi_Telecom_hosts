@@ -310,19 +310,6 @@
 101.206.209.13	cn-sccd-cu-01-12.bilivideo.com
 101.206.209.14	cn-sccd-cu-01-13.bilivideo.com
 
-23.74.15.240		upos-hz-mirrorakam.akamaized.net
-23.74.15.235		upos-hz-mirrorakam.akamaized.net
-23.76.158.240		upos-hz-mirrorakam.akamaized.net
-23.76.158.184		upos-hz-mirrorakam.akamaized.net
-88.221.135.81		upos-hz-mirrorakam.akamaized.net
-88.221.134.64		upos-hz-mirrorakam.akamaized.net
-23.49.104.167		upos-hz-mirrorakam.akamaized.net
-23.49.104.171		upos-hz-mirrorakam.akamaized.net
-2a02:26f0:5d00:3::6011:b24d	upos-hz-mirrorakam.akamaized.net
-2a02:26f0:5d00:3::6011:b24f	upos-hz-mirrorakam.akamaized.net
-2600:140b:400::1721:2190	upos-hz-mirrorakam.akamaized.net
-2600:140b:400::1721:21c0	upos-hz-mirrorakam.akamaized.net
-
 114.230.222.2  cn-jsyz-ct-03-01.bilivideo.com
 240e:978:90d:1000::2  cn-jsyz-ct-03-01.bilivideo.com
 240e:978:90d:1000::3  cn-jsyz-ct-03-02.bilivideo.com
@@ -424,6 +411,94 @@
 240e:978:90d:1000::52  cn-jsyz-ct-03-51.bilivideo.com
 114.230.222.89  cn-jsyz-ct-03-52.bilivideo.com
 240e:978:90d:1000::53 cn-jsyz-ct-03-52.bilivideo.com
+
+cn-jsnt-ct-01-01.bilivideo.com  61.147.236.2
+cn-jsnt-ct-01-01.bilivideo.com  240e:978:1503::202
+cn-jsnt-ct-01-02.bilivideo.com
+cn-jsnt-ct-01-03.bilivideo.com
+cn-jsnt-ct-01-04.bilivideo.com
+cn-jsnt-ct-01-05.bilivideo.com
+cn-jsnt-ct-01-06.bilivideo.com
+cn-jsnt-ct-01-07.bilivideo.com
+cn-jsnt-ct-01-08.bilivideo.com
+cn-jsnt-ct-01-09.bilivideo.com
+cn-jsnt-ct-01-10.bilivideo.com
+cn-jsnt-ct-01-11.bilivideo.com
+cn-jsnt-ct-01-12.bilivideo.com
+cn-jsnt-ct-01-13.bilivideo.com
+cn-jsnt-ct-01-14.bilivideo.com
+cn-jsnt-ct-01-15.bilivideo.com
+cn-jsnt-ct-01-16.bilivideo.com
+cn-jsnt-ct-01-17.bilivideo.com
+cn-jsnt-ct-01-18.bilivideo.com
+cn-jsnt-ct-01-19.bilivideo.com
+cn-jsnt-ct-01-19.bilivideo.com
+cn-jsnt-ct-01-20.bilivideo.com
+cn-jsnt-ct-01-20.bilivideo.com
+cn-jsnt-ct-01-21.bilivideo.com
+cn-jsnt-ct-01-21.bilivideo.com
+cn-jsnt-ct-01-22.bilivideo.com
+cn-jsnt-ct-01-22.bilivideo.com
+cn-jsnt-ct-01-23.bilivideo.com
+cn-jsnt-ct-01-23.bilivideo.com
+cn-jsnt-ct-01-24.bilivideo.com
+cn-jsnt-ct-01-24.bilivideo.com
+cn-jsnt-ct-01-25.bilivideo.com
+cn-jsnt-ct-01-25.bilivideo.com
+cn-jsnt-ct-01-26.bilivideo.com
+cn-jsnt-ct-01-26.bilivideo.com
+cn-jsnt-ct-01-27.bilivideo.com
+cn-jsnt-ct-01-27.bilivideo.com
+cn-jsnt-ct-01-28.bilivideo.com
+cn-jsnt-ct-01-28.bilivideo.com
+cn-jsnt-ct-01-29.bilivideo.com
+cn-jsnt-ct-01-29.bilivideo.com
+cn-jsnt-ct-01-30.bilivideo.com
+cn-jsnt-ct-01-30.bilivideo.com
+cn-jsnt-ct-01-31.bilivideo.com
+cn-jsnt-ct-01-31.bilivideo.com
+cn-jsnt-ct-01-32.bilivideo.com
+cn-jsnt-ct-01-32.bilivideo.com
+cn-jsnt-ct-01-33.bilivideo.com
+cn-jsnt-ct-01-33.bilivideo.com
+cn-jsnt-ct-01-34.bilivideo.com
+cn-jsnt-ct-01-34.bilivideo.com
+cn-jsnt-ct-01-35.bilivideo.com  61.147.236.30
+cn-jsnt-ct-01-35.bilivideo.com
+cn-jsnt-ct-01-36.bilivideo.com  61.147.236.31
+cn-jsnt-ct-01-36.bilivideo.com
+cn-jsnt-ct-01-37.bilivideo.com  61.147.236.3
+cn-jsnt-ct-01-37.bilivideo.com
+cn-jsnt-ct-01-38.bilivideo.com  61.147.236.3
+cn-jsnt-ct-01-38.bilivideo.com
+cn-jsnt-ct-01-39.bilivideo.com  61.147.236.34
+cn-jsnt-ct-01-39.bilivideo.com
+cn-jsnt-ct-01-40.bilivideo.com  61.147.236.35
+cn-jsnt-ct-01-40.bilivideo.com
+cn-jsnt-ct-01-41.bilivideo.com  61.147.236.51
+cn-jsnt-ct-01-41.bilivideo.com  240e:978:1503::251
+cn-jsnt-ct-01-42.bilivideo.com  61.147.236.52
+cn-jsnt-ct-01-42.bilivideo.com  240e:978:1503::252
+cn-jsnt-ct-01-43.bilivideo.com  61.147.236.38
+cn-jsnt-ct-01-43.bilivideo.com   
+cn-jsnt-ct-01-44.bilivideo.com  61.147.236.39
+cn-jsnt-ct-01-44.bilivideo.com
+cn-jsnt-ct-01-45.bilivideo.com  61.147.236.40
+cn-jsnt-ct-01-45.bilivideo.com
+cn-jsnt-ct-01-46.bilivideo.com  61.147.236.41
+cn-jsnt-ct-01-46.bilivideo.com
+cn-jsnt-ct-01-47.bilivideo.com  61.147.236.42
+cn-jsnt-ct-01-47.bilivideo.com  
+cn-jsnt-ct-01-48.bilivideo.com  61.147.236.43
+cn-jsnt-ct-01-48.bilivideo.com  
+cn-jsnt-ct-01-49.bilivideo.com  61.147.236.44 
+cn-jsnt-ct-01-49.bilivideo.com  240e:978:1503::246
+cn-jsnt-ct-01-50.bilivideo.com  61.147.236.45
+cn-jsnt-ct-01-50.bilivideo.com  240e:978:1503::247
+cn-jsnt-ct-01-51.bilivideo.com  61.147.236.46
+cn-jsnt-ct-01-51.bilivideo.com  240e:978:1503::242
+cn-jsnt-ct-01-52.bilivideo.com  61.147.236.47
+cn-jsnt-ct-01-52.bilivideo.com  240e:978:1503::243
 
 #Bililive: 原画
 163.181.35.231  d1--ov-gotcha209.bilivideo.com
@@ -543,6 +618,21 @@
 
 175.12.113.110  upos-sz-mirrorcoso1.bilivideo.com
 240e:96a:4c00:1001:37::3b  upos-sz-mirrorcoso1.bilivideo.com
+
+#akamai
+
+23.74.15.240		upos-hz-mirrorakam.akamaized.net
+23.74.15.235		upos-hz-mirrorakam.akamaized.net
+23.76.158.240		upos-hz-mirrorakam.akamaized.net
+23.76.158.184		upos-hz-mirrorakam.akamaized.net
+88.221.135.81		upos-hz-mirrorakam.akamaized.net
+88.221.134.64		upos-hz-mirrorakam.akamaized.net
+23.49.104.167		upos-hz-mirrorakam.akamaized.net
+23.49.104.171		upos-hz-mirrorakam.akamaized.net
+2a02:26f0:5d00:3::6011:b24d	upos-hz-mirrorakam.akamaized.net
+2a02:26f0:5d00:3::6011:b24f	upos-hz-mirrorakam.akamaized.net
+2600:140b:400::1721:2190	upos-hz-mirrorakam.akamaized.net
+2600:140b:400::1721:21c0	upos-hz-mirrorakam.akamaized.net
 
 #百度云 CDN | 虽然有解析，但实际不可用
 222.216.122.41  bilibili.jomodns.com
