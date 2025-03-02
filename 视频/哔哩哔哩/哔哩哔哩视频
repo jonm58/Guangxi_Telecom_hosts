@@ -412,17 +412,25 @@
 114.230.222.89  cn-jsyz-ct-03-52.bilivideo.com
 240e:978:90d:1000::53 cn-jsyz-ct-03-52.bilivideo.com
 
-cn-jsnt-ct-01-01.bilivideo.com  61.147.236.2
-cn-jsnt-ct-01-01.bilivideo.com  240e:978:1503::202
-cn-jsnt-ct-01-02.bilivideo.com
-cn-jsnt-ct-01-03.bilivideo.com
-cn-jsnt-ct-01-04.bilivideo.com
-cn-jsnt-ct-01-05.bilivideo.com
-cn-jsnt-ct-01-06.bilivideo.com
-cn-jsnt-ct-01-07.bilivideo.com
-cn-jsnt-ct-01-08.bilivideo.com
-cn-jsnt-ct-01-09.bilivideo.com
-cn-jsnt-ct-01-10.bilivideo.com
+61.147.236.2  cn-jsnt-ct-01-01.bilivideo.com
+240e:978:1503::202  cn-jsnt-ct-01-01.bilivideo.com
+61.147.236.3  cn-jsnt-ct-01-02.bilivideo.com
+240e:978:1503::203  cn-jsnt-ct-01-02.bilivideo.com
+61.147.236.4  cn-jsnt-ct-01-03.bilivideo.com
+240e:978:1503::204  cn-jsnt-ct-01-03.bilivideo.com
+61.147.236.5  cn-jsnt-ct-01-04.bilivideo.com
+240e:978:1503::205  cn-jsnt-ct-01-04.bilivideo.com
+61.147.236.6  cn-jsnt-ct-01-05.bilivideo.com
+240e:978:1503::206  cn-jsnt-ct-01-05.bilivideo.com
+61.147.236.7  cn-jsnt-ct-01-06.bilivideo.com
+240e:978:1503::207  cn-jsnt-ct-01-06.bilivideo.com
+61.147.236.8  cn-jsnt-ct-01-07.bilivideo.com
+240e:978:1503::208  cn-jsnt-ct-01-07.bilivideo.com
+61.147.236.9  cn-jsnt-ct-01-08.bilivideo.com
+61.147.236.10  cn-jsnt-ct-01-09.bilivideo.com
+240e:978:1503::210  cn-jsnt-ct-01-09.bilivideo.com
+61.147.236.13  cn-jsnt-ct-01-10.bilivideo.com
+240e:978:1503::213  cn-jsnt-ct-01-10.bilivideo.com
 cn-jsnt-ct-01-11.bilivideo.com
 cn-jsnt-ct-01-12.bilivideo.com
 cn-jsnt-ct-01-13.bilivideo.com
@@ -475,8 +483,8 @@ cn-jsnt-ct-01-39.bilivideo.com  61.147.236.34
 cn-jsnt-ct-01-39.bilivideo.com
 cn-jsnt-ct-01-40.bilivideo.com  61.147.236.35
 cn-jsnt-ct-01-40.bilivideo.com
-cn-jsnt-ct-01-41.bilivideo.com  61.147.236.51
-cn-jsnt-ct-01-41.bilivideo.com  240e:978:1503::251
+61.147.236.51  cn-jsnt-ct-01-41.bilivideo.com
+240e:978:1503::251  cn-jsnt-ct-01-41.bilivideo.com
 cn-jsnt-ct-01-42.bilivideo.com  61.147.236.52
 cn-jsnt-ct-01-42.bilivideo.com  240e:978:1503::252
 cn-jsnt-ct-01-43.bilivideo.com  61.147.236.38
@@ -497,8 +505,8 @@ cn-jsnt-ct-01-50.bilivideo.com  61.147.236.45
 cn-jsnt-ct-01-50.bilivideo.com  240e:978:1503::247
 cn-jsnt-ct-01-51.bilivideo.com  61.147.236.46
 cn-jsnt-ct-01-51.bilivideo.com  240e:978:1503::242
-cn-jsnt-ct-01-52.bilivideo.com  61.147.236.47
-cn-jsnt-ct-01-52.bilivideo.com  240e:978:1503::243
+61.147.236.47  cn-jsnt-ct-01-52.bilivideo.com
+240e:978:1503::243  cn-jsnt-ct-01-52.bilivideo.com
 
 #Bililive: 原画
 163.181.35.231  d1--ov-gotcha209.bilivideo.com
