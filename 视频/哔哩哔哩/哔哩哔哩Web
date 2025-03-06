@@ -1,5 +1,5 @@
 #哔哩哔哩
-#EDNS:116.1.0.0
+#EDNS:240e:350::
 180.188.25.23	api.geetest.com
 
 47.95.165.133	monitor.geetest.com
@@ -15,6 +15,16 @@
 240e:951:2c10:4609:3b::18  static.geetest.com
 240e:951:2c10:4609:3b::3  static.geetest.com
 
+118.253.185.149          boss.hdslb.com
+113.15.57.204          boss.hdslb.com
+124.227.151.118          boss.hdslb.com
+118.253.173.181          boss.hdslb.com
+222.218.193.231          boss.hdslb.com
+113.219.201.204          boss.hdslb.com
+113.15.57.203          boss.hdslb.com
+118.253.185.148          boss.hdslb.com
+118.253.173.182          boss.hdslb.com
+118.253.173.183          boss.hdslb.com
 101.226.27.116          boss.hdslb.com
 101.226.27.112          boss.hdslb.com
 101.226.27.115          boss.hdslb.com
@@ -23,6 +33,14 @@
 101.226.27.111          boss.hdslb.com
 101.226.27.117          boss.hdslb.com
 101.226.27.113          boss.hdslb.com
+240e:950:1:2001::3d          boss.hdslb.com
+240e:950:2:170:800::6d          boss.hdslb.com
+240e:950:1:2008::2e          boss.hdslb.com
+240e:950:1:2008::2f          boss.hdslb.com
+240e:950:2:170:800::6e          boss.hdslb.com
+240e:950:1:2001::3c          boss.hdslb.com
+240e:950:2:170:800::6c          boss.hdslb.com
+240e:950:2:170:800::6f          boss.hdslb.com
 240e:93d:1:2:503::7f5   boss.hdslb.com
 240e:93d:1:2:503::7f6   boss.hdslb.com
 
