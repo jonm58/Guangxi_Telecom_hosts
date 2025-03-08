@@ -13,18 +13,41 @@
 151.101.67.19   	www.mozilla.org 
 151.101.131.19	www.mozilla.org
 
-151.101.1.91	addons.mozilla.org
-151.101.65.91	addons.mozilla.org
-151.101.129.91	addons.mozilla.org
-151.101.193.91	addons.mozilla.org
-2a04:4e42:a::347   	addons.mozilla.org 
-2a04:4e42:9::347   	addons.mozilla.org 
-2a04:4e42:1a::347   	addons.mozilla.org 
-2a04:4e42:12::347   	addons.mozilla.org 
+34.110.178.183  	bugzilla.mozilla.org
+
+2a04:4e42:a::347   	addons.mozilla.org
+2a04:4e42:9::347   	addons.mozilla.org
+2a04:4e42:1a::347   	addons.mozilla.org
+2a04:4e42:12::347   	addons.mozilla.org
 2a04:4e42::347	addons.mozilla.org
 2a04:4e42:200::347	addons.mozilla.org
 2a04:4e42:400::347	addons.mozilla.org
 2a04:4e42:600::347	addons.mozilla.org
+151.101.41.91	addons.mozilla.org
+199.232.193.91	addons.mozilla.org
+151.101.89.91	addons.mozilla.org
+146.75.93.91	addons.mozilla.org
+151.101.1.91	addons.mozilla.org
+151.101.65.91	addons.mozilla.org
+151.101.129.91	addons.mozilla.org
+151.101.193.91	addons.mozilla.org
+
+2a04:4e42:a::347   	services.addons.mozilla.org
+2a04:4e42:9::347   	services.addons.mozilla.org
+2a04:4e42:1a::347   	services.addons.mozilla.org
+2a04:4e42:12::347   	services.addons.mozilla.org
+2a04:4e42::347	services.addons.mozilla.org
+2a04:4e42:200::347	services.addons.mozilla.org
+2a04:4e42:400::347	services.addons.mozilla.org
+2a04:4e42:600::347	services.addons.mozilla.org
+151.101.41.91	services.addons.mozilla.org
+199.232.193.91	services.addons.mozilla.org
+151.101.89.91	services.addons.mozilla.org
+146.75.93.91	services.addons.mozilla.org
+151.101.1.91	services.addons.mozilla.org
+151.101.65.91	services.addons.mozilla.org
+151.101.129.91	services.addons.mozilla.org
+151.101.193.91	services.addons.mozilla.org
 
 34.107.221.82		detectportal.firefox.com
 2600:1901:0:38d7::	detectportal.firefox.com
