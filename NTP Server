@@ -1,0 +1,174 @@
+#  国家授时中心 NTP 服务器  -  NTSC NTP Server
+
+114.118.7.163  ntp.ntsc.ac.cn
+114.118.7.161  ntp.ntsc.ac.cn
+
+#  中国 NTP 快速授时服务  -  NTP ORG CN
+
+2001:da8:9000::81    cn.ntp.org.cn
+2001:da8:9000::130  cn.ntp.org.cn
+14.29.218.92  cn.ntp.org.cn
+106.75.107.80   cn.ntp.org.cn
+114.67.237.130  cn.ntp.org.cn
+223.113.103.191  cn.ntp.org.cn
+120.25.115.20  cn.ntp.org.cn
+1.14.61.51  cn.ntp.org.cn
+119.29.26.206  cn.ntp.org.cn
+106.75.185.63  cn.ntp.org.cn
+203.107.6.88  cn.ntp.org.cn
+223.113.97.98  cn.ntp.org.cn
+182.92.12.11  cn.ntp.org.cn
+120.197.116.202  cn.ntp.org.cn
+120.25.108.11  cn.ntp.org.cn
+114.67.102.75  cn.ntp.org.cn
+36.154.179.82  cn.ntp.org.cn
+49.7.178.213  cn.ntp.org.cn
+58.220.133.132  cn.ntp.org.cn
+
+2001:da8:9000::130  edu.ntp.org.cn
+2001:250:380a:5::10  edu.ntp.org.cn
+2001:da8:9000::81  edu.ntp.org.cn
+116.13.10.10  edu.ntp.org.cn
+202.112.31.197  edu.ntp.org.cn
+120.197.116.202  edu.ntp.org.cn
+202.112.29.82  edu.ntp.org.cn
+202.118.1.81  edu.ntp.org.cn
+202.118.1.130  edu.ntp.org.cn
+
+149.129.123.30  hk.ntp.org.cn
+
+162.159.200.123  tw.ntp.org.cn
+
+129.250.35.251  jp.ntp.org.cn
+120.197.116.202  jp.ntp.org.cn
+133.100.11.8  jp.ntp.org.cn
+106.186.122.232  jp.ntp.org.cn
+106.187.100.179  jp.ntp.org.cn
+
+202.73.57.107  sgp.ntp.org.cn
+128.199.134.40  sgp.ntp.org.cn
+188.166.245.58  sgp.ntp.org.cn
+218.186.3.36  sgp.ntp.org.cn
+103.11.143.248  sgp.ntp.org.cn
+
+158.69.48.97  us.ntp.org.cn
+216.218.254.202  us.ntp.org.cn
+66.228.42.59  us.ntp.org.cn
+208.53.158.34  us.ntp.org.cn
+
+131.188.3.220  de.ntp.org.cn
+131.188.3.223  de.ntp.org.cn
+
+203.114.74.17  ina.ntp.org.cn
+
+#  中国计量科学研究院 NIM 授时服务  -  NIM NTP Server
+
+111.203.6.13  ntp1.nim.ac.cn
+111.203.6.12  ntp2.nim.ac.cn
+
+#  国际 NTP 快速授时服务Pool NTP ORG
+
+193.182.111.142  cn.pool.ntp.org
+5.79.108.34  cn.pool.ntp.org
+84.16.73.33  cn.pool.ntp.org
+119.28.206.193  cn.pool.ntp.org
+78.46.102.180  cn.pool.ntp.org
+162.159.200.1  cn.pool.ntp.org
+
+#  阿里云公共 NTP 服务器  -  Aliyun NTP Server
+
+203.107.6.88  ntp.aliyun.com
+47.96.149.233  ntp1.aliyun.com
+203.107.6.88  ntp2.aliyun.com
+203.107.6.88  ntp3.aliyun.com
+203.107.6.88  ntp4.aliyun.com
+203.107.6.88  ntp5.aliyun.com
+203.107.6.88  ntp6.aliyun.com
+203.107.6.88  ntp7.aliyun.com
+
+#  腾讯云公共 NTP 服务器  -  Tencent Cloud NTP Server
+
+106.55.184.199  ntp.tencent.com
+106.55.184.199  ntp1.tencent.com
+111.230.189.174  ntp2.tencent.com
+106.55.184.200  ntp3.tencent.com
+134.175.254.134  ntp4.tencent.com
+134.175.253.104  ntp5.tencent.com
+
+#  高通中国 NTP 服务  -  Qualcomm NTP Server
+
+2404:c2c0:839c:c800:3bd2:8303:8264:eedf  time.izatcloud.net
+2404:c2c0:839c:c801:d63d:c7c8:ae8b:e9c5  time.izatcloud.net
+52.82.26.242    time.izatcloud.net
+52.83.167.186  time.izatcloud.net
+2600:1f14:d4f:fb01:12ed:61c:e2a0:ec6e
+2600:1f14:d4f:fb00:49eb:12f7:4d13:a59d
+54.184.198.114  time.gpsonextra.net
+35.86.117.0  time.gpsonextra.net
+
+#  海康威视公共 NTP 服务器
+
+183.136.184.225  hik-time.ys7.com
+183.136.184.225  time.ys7.com
+
+#  高校自建 NTP 教育网  -  EDU NTP Server
+
+2403:300:a16:4000::21  ntp.sjtu.edu.cn
+2403:300:a30:3000::1f2  ntp.sjtu.edu.cn
+2403:300:a16:3000::21  ntp.sjtu.edu.cn
+17.253.52.253  ntp.sjtu.edu.cn
+17.253.14.251  ntp.sjtu.edu.cn
+17.253.52.125  ntp.sjtu.edu.cn
+
+202.118.1.46  ntp.neu.edu.cn
+202.118.1.47  ntp.neu.edu.cn
+202.118.1.48  ntp.neu.edu.cn
+
+211.68.71.26  ntp.bupt.edu.cn
+
+202.120.127.191  ntp.shu.edu.cn
+
+2402:f000:1:416:101:6:6:172  ntp.tuna.tsinghua.edu.cn
+101.6.6.172  ntp.tuna.tsinghua.edu.cn
+
+202.38.64.7  time.ustc.edu.cn
+
+202.120.224.70  ntp.fudan.edu.cn
+
+202.119.32.181  ntp.nju.edu.cn
+
+#  香港天文台公共 NTP 服务器  -  Hong Kong Observator NTP Server 
+
+223.255.185.2  stdtime.gov.hk
+223.255.185.3  stdtime.gov.hk
+118.143.17.82  stdtime.gov.hk
+118.143.17.83  stdtime.gov.hk
+
+2403:5000:171:11::3  time.hko.hk
+2407:8000:8001:80::8  time.hko.hk
+2403:5000:171:11::4  time.hko.hk
+2407:8000:8001:80::9  time.hko.hk
+223.255.185.3  time.hko.hk
+118.143.17.82  time.hko.hk
+118.143.17.83  time.hko.hk
+223.255.185.2  time.hko.hk
+
+#  澳门地球气象局公共 NTP 服务器  -  Macao Meteorological and Geophysical Bureau NTP Server
+
+202.175.22.38  time.smg.gov.mo
+
+#  苹果公司公共 NTP 服务器  -  Apple NTP Server
+
+2a01:b740:a16:3000::1e2  time.apple.com
+2a01:b740:a30:3000::1f2  time.apple.com
+2a01:b740:a30:4000::1e2  time.apple.com
+17.253.14.253  time.apple.com
+17.253.52.125  time.apple.com
+17.253.52.253  time.apple.com
+
+2403:300:a16:3000::21  time.asia.apple.com
+2403:300:a30:4000::1f2  time.asia.apple.com
+2403:300:a16:4000::21  time.asia.apple.com
+17.253.14.253  time.asia.apple.com
+17.253.52.125  time.asia.apple.com
+17.253.52.253  time.asia.apple.com
