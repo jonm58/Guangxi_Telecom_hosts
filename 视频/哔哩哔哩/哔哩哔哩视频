@@ -88,8 +88,6 @@
 116.77.72.76  cn-gdsz-twsx-bcache-03.bilivideo.com
 116.77.72.77  cn-gdsz-twsx-bcache-04.bilivideo.com
 
-#直播 CDN:
-
 14.17.92.2 cn-gddg-ct-01-01.bilivideo.com
 240e:97d:10:1402:0:1:1:2 cn-gddg-ct-01-01.bilivideo.com
 14.17.92.3 cn-gddg-ct-01-02.bilivideo.com
@@ -485,28 +483,46 @@ cn-jsnt-ct-01-40.bilivideo.com  61.147.236.35
 cn-jsnt-ct-01-40.bilivideo.com
 61.147.236.51  cn-jsnt-ct-01-41.bilivideo.com
 240e:978:1503::251  cn-jsnt-ct-01-41.bilivideo.com
-cn-jsnt-ct-01-42.bilivideo.com  61.147.236.52
-cn-jsnt-ct-01-42.bilivideo.com  240e:978:1503::252
-cn-jsnt-ct-01-43.bilivideo.com  61.147.236.38
+61.147.236.52  cn-jsnt-ct-01-42.bilivideo.com 
+240e:978:1503::252  cn-jsnt-ct-01-42.bilivideo.com
+61.147.236.38  cn-jsnt-ct-01-43.bilivideo.com
 cn-jsnt-ct-01-43.bilivideo.com   
-cn-jsnt-ct-01-44.bilivideo.com  61.147.236.39
+61.147.236.39  cn-jsnt-ct-01-44.bilivideo.com
 cn-jsnt-ct-01-44.bilivideo.com
-cn-jsnt-ct-01-45.bilivideo.com  61.147.236.40
+61.147.236.40  cn-jsnt-ct-01-45.bilivideo.com
 cn-jsnt-ct-01-45.bilivideo.com
-cn-jsnt-ct-01-46.bilivideo.com  61.147.236.41
+61.147.236.41  cn-jsnt-ct-01-46.bilivideo.com
 cn-jsnt-ct-01-46.bilivideo.com
-cn-jsnt-ct-01-47.bilivideo.com  61.147.236.42
+61.147.236.42  cn-jsnt-ct-01-47.bilivideo.com
 cn-jsnt-ct-01-47.bilivideo.com  
-cn-jsnt-ct-01-48.bilivideo.com  61.147.236.43
+61.147.236.43  cn-jsnt-ct-01-48.bilivideo.com 
 cn-jsnt-ct-01-48.bilivideo.com  
-cn-jsnt-ct-01-49.bilivideo.com  61.147.236.44 
-cn-jsnt-ct-01-49.bilivideo.com  240e:978:1503::246
+61.147.236.44 cn-jsnt-ct-01-49.bilivideo.com  
+240e:978:1503::246  cn-jsnt-ct-01-49.bilivideo.com
 cn-jsnt-ct-01-50.bilivideo.com  61.147.236.45
 cn-jsnt-ct-01-50.bilivideo.com  240e:978:1503::247
-cn-jsnt-ct-01-51.bilivideo.com  61.147.236.46
-cn-jsnt-ct-01-51.bilivideo.com  240e:978:1503::242
+61.147.236.46  cn-jsnt-ct-01-51.bilivideo.com
+240e:978:1503::242  cn-jsnt-ct-01-51.bilivideo.com
 61.147.236.47  cn-jsnt-ct-01-52.bilivideo.com
 240e:978:1503::243  cn-jsnt-ct-01-52.bilivideo.com
+
+117.21.179.1  cn-jxjj-01-01.bilivideo.com
+240e:cf:9000:2::82  cn-jxjj-01-01.bilivideo.com
+117.21.179.2  cn-jxjj-01-02.bilivideo.com
+240e:cf:9000:2::83  cn-jxjj-01-02.bilivideo.com
+117.21.179.3  cn-jxjj-01-03.bilivideo.com
+240e:cf:9000:2::84  cn-jxjj-01-03.bilivideo.com
+
+117.21.179.6  cn-jxjj-01-05.bilivideo.com
+240e:cf:9000:2::86  cn-jxjj-01-05.bilivideo.com
+117.21.179.7  cn-jxjj-01-06.bilivideo.com
+240e:cf:9000:2::87  cn-jxjj-01-06.bilivideo.com
+117.21.179.8  cn-jxjj-ct-01-07.bilivideo.com
+240e:cf:9000:2::88  cn-jxjj-ct-01-07.bilivideo.com
+117.21.179.9  cn-jxjj-ct-01-08.bilivideo.com
+240e:cf:9000:2::89  cn-jxjj-ct-01-08.bilivideo.com
+117.21.179.10  cn-jxjj-ct-01-09.bilivideo.com
+240e:cf:9000:2::90  cn-jxjj-ct-01-09.bilivideo.com
 
 #Bililive: 原画
 163.181.35.231  d1--ov-gotcha209.bilivideo.com
